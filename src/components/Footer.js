@@ -91,6 +91,9 @@ const Footer = () => {
                             <a href="#" className="relative p-5 bg-indigo br-round white hover-scale-up-1 ease-400">
                                 <i data-feather="instagram" className="absolute-center h-4"></i>
                             </a>
+                            <a href="https://github.com/coderealistics/hook-project" className="relative p-5 bg-indigo br-round white hover-scale-up-1 ease-400">
+                                <i data-feather="github" className="absolute-center h-4"></i>
+                            </a>
                         </div>
                     </div>
                 </div>
